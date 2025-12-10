@@ -2,7 +2,7 @@
 
 #### An open source online job portal.
 
-Live: [Demo](https://harshit21.pythonanywhere.com/))
+Live: [Demo](https://harshit21.pythonanywhere.com/)
 
 Used Tech Stack
 
