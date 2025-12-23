@@ -7,7 +7,7 @@ Live: [Demo](https://harshit21.pythonanywhere.com/)
 Used Tech Stack
 
 1. Django
-2. Sqlite
+2. MYSQL
 
 ### Screenshots
 
